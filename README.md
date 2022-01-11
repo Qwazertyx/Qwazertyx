@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Qwazz</h1>
 <h3 align="center">A lazy random muffin</h3>
 
-- 🔭 I’m currently studying at :[42 Lyon](https://42lyon.fr/)
+- 🔭 I’m currently studying at : [42 Lyon](https://42lyon.fr/)
 
-- 🌱 I’m currently learning :**C, Blender and Unity**
+- 🌱 I’m currently learning : **C, Blender and Unity**
 
-- 💬 Ask me about :**My honey preferences**
+- 💬 Ask me about : **My honey preferences**
 
-- 📫 How to reach me :**vsedat@student.42lyon.fr**
+- 📫 How to reach me : **vsedat@student.42lyon.fr**
 
-- ⚡ Fun fact :**I think I am funny**
+- ⚡ Fun fact : **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
