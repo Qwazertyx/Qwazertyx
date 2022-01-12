@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Victor</h1>
+<h1 align="center">Hi, I'm Victor</h1>
 <h3 align="center">A lazy random muffin</h3>
-<p align="center"><img src="https://i.kym-cdn.com/photos/images/original/001/476/528/d03" width="600" height="300"></p>
+<p align="center"><img src="https://c.tenor.com/Yb45pGRXDsIAAAAC/keqing-keqing-genshin-impact.gif" width="500px"></p>
 
 - 🔭 I’m currently studying at : [42 Lyon](https://42lyon.fr/)
 
