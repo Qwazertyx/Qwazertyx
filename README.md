@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Qwazz</h1>
 <h3 align="center">A lazy random muffin</h3>
-<p align="center"><img src="https://i.kym-cdn.com/photos/images/original/001/476/528/d03" width="600" height="300"></p>
+<p align="center"><img src="https://i.kym-cdn.com/photos/images/original/001/476/528/d03" width="600" height="300">
 
 - 🔭 I’m currently studying at : [42 Lyon](https://42lyon.fr/)
 
@@ -11,7 +11,7 @@
 - 📫 How to reach me : **vsedat@student.42lyon.fr**
 
 - ⚡ Fun fact : **I think I am funny**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/victor_soda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="victor_soda" height="30" width="40" /></a>
