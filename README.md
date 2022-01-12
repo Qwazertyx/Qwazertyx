@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Qwazz</h1>
 <h3 align="center">A lazy random muffin</h3>
-<center><img src="https://i.kym-cdn.com/photos/images/original/001/476/528/d03" width="600" height="300"/></center>
+<p align="center"><img src="https://i.kym-cdn.com/photos/images/original/001/476/528/d03"></p>
 
 - 🔭 I’m currently studying at : [42 Lyon](https://42lyon.fr/)
 
