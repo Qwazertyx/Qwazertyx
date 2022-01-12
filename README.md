@@ -2,15 +2,15 @@
 <h3 align="center">A lazy random muffin</h3>
 <p align="center"><img src="https://i.kym-cdn.com/photos/images/original/001/476/528/d03" width="600" height="300"></p>
 
-<h3 align="center">- 🔭 I’m currently studying at : [42 Lyon](https://42lyon.fr/)</h3>
+- 🔭 I’m currently studying at : [42 Lyon](https://42lyon.fr/)
 
-<h3 align="center">- 🌱 I’m currently learning : **C, Blender and Unity**</h3>
+- 🌱 I’m currently learning : **C, Blender and Unity**
 
-<h3 align="center">- 💬 Ask me about : **My honey preferences**</h3>
+- 💬 Ask me about : **My honey preferences**
 
-<h3 align="center">- 📫 How to reach me : **vsedat@student.42lyon.fr**</h3>
+- 📫 How to reach me : **vsedat@student.42lyon.fr**
 
-<h3 align="center">- ⚡ Fun fact : **I think I am funny**</h3>
+- ⚡ Fun fact : **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
