@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Qwazz</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/DnggUi3OgOMAAAAi/genshin-impact-headpats.gif" width="25px">, I'm Victor</h1>
 <h3 align="center">A lazy random muffin</h3>
 <p align="center"><img src="https://i.kym-cdn.com/photos/images/original/001/476/528/d03" width="600" height="300"></p>
 
