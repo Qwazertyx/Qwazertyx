@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Victor</h1>
-<h3 align="center">A lazy random</h3>
+<h3 align="center">A random student</h3>
 <p align="center"><img src="https://c.tenor.com/Yb45pGRXDsIAAAAC/keqing-keqing-genshin-impact.gif" width="500px"></p>
 
 - 🔭 I’m currently studying at : [42 Lyon](https://42lyon.fr/)
