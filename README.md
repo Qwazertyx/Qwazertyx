@@ -1,16 +1,12 @@
-<h1 align="center">Hi, I'm Victor</h1>
-<h3 align="center">Also known as: vsedat</h3>
-<p align="center"><img src="https://c.tenor.com/Yb45pGRXDsIAAAAC/keqing-keqing-genshin-impact.gif" width="500px"></p>
+<h1>Hello world!</h1>
 
-- 🔭 I’m currently studying at : [42 Lyon](https://42lyon.fr/)
+[![vsedat's 42Piscine stats](https://badge42.herokuapp.com/api/stats/vsedat?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+
+[![vsedat's 42 stats](https://badge42.herokuapp.com/api/stats/vsedat?darkmode=true)](https://github.com/JaeSeoKim/badge42)
+
+- 🔭 42 Lyon's website : [42 Lyon](https://42lyon.fr/)
 
 - 🌱 I’m currently learning : **C, Blender and Unity**
-
-- 💬 Ask me about : **My honey preferences**
-
-- 📫 How to reach me : **vsedat@student.42lyon.fr**
-
-- ⚡ Fun fact : **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
