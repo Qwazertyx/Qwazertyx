@@ -1,17 +1,13 @@
 
 ```C
-int main()
+typedef struct  s42student
 {
-  int age = 19;
-  char *occupation = "42student";
-  char *country = "France";
-  
-  while (occupation)
-  {
-    code++;
-    havefun++;
-  }
-};
+  char          *name = "Victor Sedat";
+  unsigned int  age = 19;
+  char          *occupation = "42student";
+  char          *country = "France";
+  void          *brain = malloc(sizeof(char) * 2);
+};              t42student
 ```
 
 <h4>My Piscine at 42:</h4>
