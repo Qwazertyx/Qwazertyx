@@ -1,6 +1,10 @@
 <h1>Hello world!</h1>
 
+<h3>My Piscine at 42:</h3>
+
 [![vsedat's 42Piscine stats](https://badge42.herokuapp.com/api/stats/vsedat?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+
+<h3>My profile at 42:</h3>
 
 [![vsedat's 42 stats](https://badge42.herokuapp.com/api/stats/vsedat?darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
