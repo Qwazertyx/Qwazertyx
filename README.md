@@ -5,7 +5,7 @@ typedef struct  s42student
   char          *name = "Victor Sedat";
   unsigned int  age = 19;
   char          *occupation = "42student";
-  char          **languages = {"French", "English", "Japanese"};
+  char          **languages = {"French", "English"};
   void          *brain = malloc(sizeof(char) * 2);
 };              t42student
 ```
