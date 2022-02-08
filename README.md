@@ -1,6 +1,19 @@
-<h1>Hello world!</h1>
 
-<h3>I'm Victor Sedat, a student at 42 Lyon</h3>
+```C
+int main()
+{
+  int age = 19;
+  char *occupation = "42student";
+  char *country = "France";
+  
+  while (occupation)
+  {
+    code++;
+    havefun++;
+  }
+};
+```
+
 <h4>My Piscine at 42:</h4>
 
 [![vsedat's 42Piscine stats](https://badge42.herokuapp.com/api/stats/vsedat?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
