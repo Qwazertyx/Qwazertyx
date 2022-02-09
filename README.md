@@ -1,13 +1,13 @@
 
 ```C
-typedef struct  s42student
+typedef struct  sstudent
 {
   char          *name = "Victor Sedat";
   unsigned int  age = 19;
   char          *occupation = "42student";
   char          **languages = {"French", "English"};
   void          *brain = malloc(sizeof(char) * 2);
-};              t42student
+};              tstudent
 ```
 
 <h4>My Piscine at 42:</h4>
