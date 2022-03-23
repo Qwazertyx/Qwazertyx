@@ -19,6 +19,7 @@ My profile at [42 Lyon](https://42lyon.fr/):
 <p align="left">
 <a href="https://instagram.com/victor_soda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="victor_soda" height="30" width="40" /></a>
 <a href="https://discord.gg/Qwazertox#4878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Qwazertox#4878" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/victor-sedat-3a372620a/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="Victor Sedat" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
