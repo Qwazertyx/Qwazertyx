@@ -12,7 +12,7 @@ typedef struct  sstudent
 
 My profile at [42 Lyon](https://42lyon.fr/):
 
-[![vsedat's 42 stats](https://badge42.herokuapp.com/api/stats/vsedat?darkmode=true)](https://github.com/JaeSeoKim/badge42)
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1kzq6n0001609iagycostl5/stats?cursusId=21&coalitionId=15" alt="vsedat's 42 stats" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
